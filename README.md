@@ -7,3 +7,4 @@ Projetos de Desenvolvimento Web.
 <p>Otimizado para mecanismos de busca (SEO)</p>
 <img src="https://github.com/rcDeveloping/WebDev/blob/main/files/page-speed-desktop-aprendilucrei.PNG">
 <p>Monitoramento através do Google Search Console e Google Analytics, permitindo acompanhar métricas importantes, como número de novos visitantes, taxas de conversão, tempo médio do usuário no site, tipos de browsers e dispotivos ustilizados para acessar o site, links e rotas mais clicados, estados e cidades de onde os usuários acessam o site...</p>
+<p>Chatbot integrado para oferecer melhor atendimento a clientes.</p>
